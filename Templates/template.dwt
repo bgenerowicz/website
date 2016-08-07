@@ -22,6 +22,8 @@ html, body {
 }
 
 #right {
+	padding-top:2cm;
+	text-indent:1.5cm;
     width: 80%;
     height: auto;
     outline: 1px solid;
@@ -108,7 +110,7 @@ a.one:active {	text-decoration: none;
 </head>
 
 <body>
-<div id="left"><img src="../graysmall.png" name="img" width="93" height="55" id="img" />
+<div id="left"><img src="../images/graysmall.png" name="img" width="93" height="55" id="img" />
   <h2> B </h2>
   <h3><a class="one" href="../home.html">Home</a></h3>
   <h3><a class="one" href="../about.html">About Me</a></h3>
